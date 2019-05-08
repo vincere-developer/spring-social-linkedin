@@ -29,7 +29,8 @@ public enum ProfileField {
 	INDUSTRY,
 	DISTANCE,
 	RELATION_TO_VIEWER,
-	CURRENT_SHARE,
+	//error when call linkedin api
+	//CURRENT_SHARE,
 	CONNECTIONS,
 	NUM_CONNECTIONS,
 	NUM_CONNECTIONS_CAPPED,
